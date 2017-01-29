@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_rad10" android:icon="@drawable/lapis_icon"
+            android:title="10 QUESTÕES" />
+        <item android:id="@+id/nav_rad20" android:icon="@drawable/lapis_icon"
+            android:title="20 QUESTÕES" />
+        <item android:id="@+id/nav_rad30" android:icon="@drawable/lapis_icon"
+            android:title="30 QUESTÕES" />
+        <item android:id="@+id/nav_upgrade" android:icon="@drawable/plainicon"
+            android:title="Mais questões" />
+    </group>
+    <item android:title="Legislação">
+        <menu>
+            <item android:id="@+id/nav_cde" android:icon="@drawable/trifolio"
+                android:title="Código de Ética" />
+            <item android:id="@+id/nav_d5211" android:icon="@drawable/trifolio"
+                android:title="Decreto no. 5.211/04 " />
+            <item android:id="@+id/nav_d92790" android:icon="@drawable/trifolio"
+                android:title="Decreto no. 92.790/86" />
+            <item android:id="@+id/nav_l10508" android:icon="@drawable/trifolio"
+                android:title="Lei no. 10.508/02" />
+            <item android:id="@+id/nav_l1243" android:icon="@drawable/trifolio"
+                android:title="Lei no. 1.234/50" />
+            <item android:id="@+id/nav_l7394" android:icon="@drawable/trifolio"
+                android:title="Lei no. 7.394/85" />
+            <item android:id="@+id/nav_nr32" android:icon="@drawable/trifolio"
+                android:title="NR 32" />
+            <item android:id="@+id/nav_p453" android:icon="@drawable/trifolio"
+                android:title="Portaria no. 453/98" />
+        </menu>
+    </item>
+    <item android:title="Contato">
+        <menu>
+            <item android:id="@+id/nav_face" android:icon="@drawable/face"
+                android:title="Página no Facebook" />
+            <item android:id="@+id/nav_email" android:icon="@drawable/email"
+                android:title="Email" />
+            <item android:id="@+id/nav_site" android:icon="@drawable/internet"
+                android:title="Site" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radiologia Concursos Free</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4218805607147921/6938882495</string>
+</resources>
